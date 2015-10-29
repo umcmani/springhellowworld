@@ -1,0 +1,6 @@
+---
+applications:
+  - name: springhelloworld
+    buildpack: java_buildpack
+    path: target/springhelloworld.war
+    
